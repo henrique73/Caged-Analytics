@@ -4,7 +4,7 @@ Esse trabalho tem o propósito de fazer uma análise dos dados [CAGED](https://w
 
 # 🔹 User Stories
 
-**[_User Stories Minima_](https://www.dropbox.com/s/738p3ixuyj2b0uo/CAGED%20Minimo.txt?dl=0)**
+**[_User Stories_ Minima](https://www.dropbox.com/s/738p3ixuyj2b0uo/CAGED%20Minimo.txt?dl=0)**
 
 # 🔹 Tecnologias Utilizadas
 
