@@ -1,19 +1,27 @@
-# Trabalho de Análise de Dados Públicos
+# PROJETO DE ANÁLISE DE DADOS PÚBLICOS
 
-Esse trabalho tem o proposito de fazer uma analise dos dados [CAGED](https://www.gov.br/trabalho/pt-br/assuntos/empregador/caged), Mostrando a quantidade de Admissões em Desligamentos por genero, raça e cor e outros topicos que podem ser consultados nos User Stories
+Esse trabalho tem o propósito de fazer uma análise dos dados [CAGED](https://www.gov.br/trabalho/pt-br/assuntos/empregador/caged), Mostrando a quantidade de Admissões em Desligamentos por gênero, raça e cor e outros tópicos que podem ser consultados nos User Stories.
 
-# User Stories
+# 🔹 User Stories
 
-[User Stories Minima](https://www.dropbox.com/s/738p3ixuyj2b0uo/CAGED%20Minimo.txt?dl=0)
+**[_User Stories Minima_](https://www.dropbox.com/s/738p3ixuyj2b0uo/CAGED%20Minimo.txt?dl=0)**
 
-# Integrantes
+# 🔹 Tecnologias Utilizadas
 
-[Henrique Erzinger](https://github.com/henrique73)
+* **_Jupyter Notebook_**
+* **Linguagem _Python_**
 
-[Letícia Santos](https://github.com/LeticiaSan)
+# 🔹 Integrantes
 
-[Gabriel Teixeira](https://github.com/Gabrieltg7)
+**[Henrique Erzinger](https://github.com/henrique73)**
 
-# Origem dos dados
+**[Letícia Santos](https://github.com/LeticiaSan)**
 
-A fonte dos dados são do FTP (File Transfer Protocol) do Ministerio do trabalho que possui o registro permanente de admissões e dispensa de empregados : http://pdet.mte.gov.br/microdados-rais-e-caged
+**[Gabriel Teixeira](https://github.com/Gabrieltg7)**
+
+# 🔹 Origem dos dados
+
+**A fonte dos dados é do FTP (File Transfer Protocol) do Ministerio do trabalho que possui o registro permanente de admissões e dispensa de empregados : http://pdet.mte.gov.br/microdados-rais-e-caged**
+
+**A fonte das estatísticas de consumo é o Portal Brasileiro de Dados Abertos: https://dados.gov.br/dataset/reclamacoes-do-consumidor-gov-br1**
+
